@@ -1,0 +1,31 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: "Almarai", sans-serif;
+}
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.header {
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.form {
+	padding-top: 30px;
+}
+.add-botton {
+	height: 55px;
+}
+
+.error {
+	border: 1px solid red;
+}
