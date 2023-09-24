@@ -1,0 +1,8 @@
+* crud App
+- you can add , edite, and delete post
+- if not have posts it will display message " there are no posts"
+- the app can validation at the post content if:
+  1. have a content or not
+      if not have a content should not add post and display a message "the post should have a title and discription"
+  2. not repeat the post 
+      if post have same content in post added before it will display a message " there is a post have same content shared do you want to share post with same content yes for share any way or no for cansel sharing post "
